@@ -1,9 +1,9 @@
-# Assigment
- Assigment
+Pull the specified branch from the repository.
 
- take pull of this branch 
- install package -> npm install.
+Install project dependencies by running:
+bash
+npm install
 
- for run project ->
-  run command for both frontEnd & backend->
-   npm run start
+Start the project (both frontend and backend) using:
+bash
+npm run start
